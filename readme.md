@@ -30,4 +30,4 @@ A simpler way to access Google's BigQuery
 
 ## Documentation
 The documentation for the simplified database format and
-functions can be found on the [wiki](https://github.com/saviornt/database_repo/simple_statements).
+functions can be found on the [wiki](https://github.com/saviornt/database_repo).
